@@ -7,3 +7,5 @@
 # 5. 메인에서 해당 브랜치 merge
 # 6. git push origin main/master
 # 끝
+
+# 마지막 커밋 삭제 - git reset --soft HEAD^
